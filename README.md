@@ -36,7 +36,7 @@ This repository contains scripts for using [GoodbyeDPI](https://github.com/Valdi
 
 ---
 
-## Telif Hakkı & Kaynak
+## Telif Hakkı & Kaynak / Copyright & Source
 Bu repo, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) projesinden çatallanmıştır ve orijinal projenin tüm hakları orijinal geliştiricisine aittir.
 
 This repository is forked from [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI), and all rights belong to the original developer.
